@@ -1,0 +1,1 @@
+### This repo contains notes and information as a go through the devinterview.io data structures section + additional sections as needed for review practice.
